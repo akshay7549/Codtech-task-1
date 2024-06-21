@@ -1,5 +1,11 @@
-# Codtech-task-1
-# To-Do List Web Application
+*NAme: Akshay Kumar
+*Company: CODTECH IT SOLUTIONS\
+* ID: CT4FSWD2540
+* Domain: Web Development
+* Durations: june to july 2024
+
+* # Codtech-task-1
+* Project name: To-Do List Web Application
 
 # Description
 
