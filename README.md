@@ -1,5 +1,5 @@
-*NAme: Akshay Kumar
-*Company: CODTECH IT SOLUTIONS\
+* Name: Akshay Kumar
+* Company: CODTECH IT SOLUTIONS\
 * ID: CT4FSWD2540
 * Domain: Web Development
 * Durations: june to july 2024
