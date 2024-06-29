@@ -4,7 +4,7 @@
 * Domain: Web Development
 * Durations: june to july 2024
 
-* # Codtech-task-1
+* # To-Do List Web Application
 * Project name: To-Do List Web Application
 
 # Description
