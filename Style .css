@@ -7,7 +7,7 @@ body {
             rgba(0, 0, 0, 0.5) 50%),
         url(1.jpg);
     display: flex;
-    justify-content: right;
+    justify-content: center;
     align-items: center;
     height: 100vh;
     margin: 0;
